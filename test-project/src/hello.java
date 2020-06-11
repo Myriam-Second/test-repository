@@ -5,6 +5,7 @@ public class hello {
 		// commit1
 		//branch1
 		//fork -> pull request
+		//원격이 변했다
 
 	}
 
