@@ -6,6 +6,8 @@ public class hello {
 		//branch1
 		//fork -> pull request
 		//로컬 변화
+		//원격이 변했다
+
 
 	}
 
