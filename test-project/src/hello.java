@@ -7,6 +7,7 @@ public class hello {
 		//fork -> pull request
 		//로컬 변화
 		//원격이 변했다
+		//local second fork
 
 
 	}
